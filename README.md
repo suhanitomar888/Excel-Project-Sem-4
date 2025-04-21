@@ -30,6 +30,6 @@ Regional patterns in dropout rates and education continuity
 
 The data serves as a foundation for building dashboards and conducting district/state-level educational performance assessments.
 
-Let me know if you'd like a more t
+Let me know if you'd like a more.
 
 Link to dataset:: https://www.data.gov.in/catalog/enrolment-age-and-class-udise-plus
